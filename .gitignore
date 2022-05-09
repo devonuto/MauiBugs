@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/MauiBugs/FileContentIndex
+/FormattingBug/.vs
+/FormattingBug/bin/Debug/net6.0-android
+/FormattingBug/obj
