@@ -6,3 +6,9 @@
 /FormattingBug/.vs
 /FormattingBug/bin/Debug/net6.0-android
 /FormattingBug/obj
+/.vs
+/ShellIconBug/bin/Debug/net6.0-android
+/ShellIconBug/obj
+/NavigationIssue/bin/Debug
+/NavigationIssue/obj
+/ShellIconBug/bin/Debug
