@@ -9,6 +9,8 @@
 /.vs
 /ShellIconBug/bin/Debug/net6.0-android
 /ShellIconBug/obj
-/NavigationIssue/bin/Debug
+/NavigationIssue/bin
 /NavigationIssue/obj
 /ShellIconBug/bin/Debug
+/FormattingBug/bin
+/FormattingBug/obj
